@@ -1,0 +1,9 @@
+0.7
+2020.2
+Nov 14 2025
+12:36:23
+/home/maniek_ekwador/FPGA/uart/rtl/baud_rate_gen.sv,1773024297,systemVerilog,,/home/maniek_ekwador/FPGA/uart/rtl/uart_tx.sv,,baud_rate_gen,,,,,,,,
+/home/maniek_ekwador/FPGA/uart/rtl/uart_tx.sv,1773439844,systemVerilog,,/home/maniek_ekwador/FPGA/uart/rtl/uart_tx_top.sv,,uart_tx,,,,,,,,
+/home/maniek_ekwador/FPGA/uart/rtl/uart_tx_if.sv,1773438756,systemVerilog,,/home/maniek_ekwador/FPGA/uart/rtl/baud_rate_gen.sv,,uart_tx_if,,,,,,,,
+/home/maniek_ekwador/FPGA/uart/rtl/uart_tx_top.sv,1773439842,systemVerilog,,/home/maniek_ekwador/FPGA/uart/tb/tb_uart_tx_top.sv,,uart_tx_top,,,,,,,,
+/home/maniek_ekwador/FPGA/uart/tb/tb_uart_tx_top.sv,1773494846,systemVerilog,,,,tb_uart_tx_top,,,,,,,,

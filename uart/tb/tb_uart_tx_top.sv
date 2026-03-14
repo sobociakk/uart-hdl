@@ -95,10 +95,4 @@ module tb_uart_tx_top;
         $finish;
     end
 
-    // 7. Zrzut przebiegów (Waveforms)
-    initial begin
-        $dumpfile("waves_uart_tx.vcd"); 
-        $dumpvars(0, tb_uart_tx);
-    end
-
 endmodule

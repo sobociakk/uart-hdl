@@ -1,0 +1,1 @@
+-debug "typical" -top "tb_uart_tx_top" -snapshot "tb_uart_tx_top_snap" -log "build/xelab.log" 
